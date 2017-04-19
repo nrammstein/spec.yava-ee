@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib/My-ejb-api.jar
+
